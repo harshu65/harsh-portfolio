@@ -1,2 +1,5 @@
 node_modules/
 build/
+asset-manifest.json
+precache*
+service-worker.js
