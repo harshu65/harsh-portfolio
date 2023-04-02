@@ -1,15 +1,15 @@
 {
-  "main.css": "/port/static/css/main.84112edf.chunk.css",
-  "main.js": "/port/static/js/main.15d3bc05.chunk.js",
-  "main.js.map": "/port/static/js/main.15d3bc05.chunk.js.map",
-  "static/css/1.31dc2ecf.chunk.css": "/port/static/css/1.31dc2ecf.chunk.css",
-  "static/js/1.b0632110.chunk.js": "/port/static/js/1.b0632110.chunk.js",
-  "static/js/1.b0632110.chunk.js.map": "/port/static/js/1.b0632110.chunk.js.map",
-  "runtime~main.js": "/port/static/js/runtime~main.49ee2937.js",
-  "runtime~main.js.map": "/port/static/js/runtime~main.49ee2937.js.map",
-  "static/css/1.31dc2ecf.chunk.css.map": "/port/static/css/1.31dc2ecf.chunk.css.map",
-  "static/css/main.84112edf.chunk.css.map": "/port/static/css/main.84112edf.chunk.css.map",
-  "index.html": "/port/index.html",
-  "precache-manifest.cad527f38a1678b9782b2cc58f90b512.js": "/port/precache-manifest.cad527f38a1678b9782b2cc58f90b512.js",
-  "service-worker.js": "/port/service-worker.js"
+  "main.css": "/harsh-portfolio/static/css/main.f8f787e9.chunk.css",
+  "main.js": "/harsh-portfolio/static/js/main.dfea348a.chunk.js",
+  "main.js.map": "/harsh-portfolio/static/js/main.dfea348a.chunk.js.map",
+  "static/css/1.2425d664.chunk.css": "/harsh-portfolio/static/css/1.2425d664.chunk.css",
+  "static/js/1.f132c609.chunk.js": "/harsh-portfolio/static/js/1.f132c609.chunk.js",
+  "static/js/1.f132c609.chunk.js.map": "/harsh-portfolio/static/js/1.f132c609.chunk.js.map",
+  "runtime~main.js": "/harsh-portfolio/static/js/runtime~main.ec205018.js",
+  "runtime~main.js.map": "/harsh-portfolio/static/js/runtime~main.ec205018.js.map",
+  "static/css/main.f8f787e9.chunk.css.map": "/harsh-portfolio/static/css/main.f8f787e9.chunk.css.map",
+  "static/css/1.2425d664.chunk.css.map": "/harsh-portfolio/static/css/1.2425d664.chunk.css.map",
+  "index.html": "/harsh-portfolio/index.html",
+  "precache-manifest.b7ca4fccee33a5c9f185decdd45783e7.js": "/harsh-portfolio/precache-manifest.b7ca4fccee33a5c9f185decdd45783e7.js",
+  "service-worker.js": "/harsh-portfolio/service-worker.js"
 }
