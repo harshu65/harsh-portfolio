@@ -1,15 +1,15 @@
 {
-  "main.css": "/portfolio/static/css/main.ceebfbff.chunk.css",
-  "main.js": "/portfolio/static/js/main.7216073c.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.7216073c.chunk.js.map",
-  "static/css/1.32567529.chunk.css": "/portfolio/static/css/1.32567529.chunk.css",
-  "static/js/1.abaead1e.chunk.js": "/portfolio/static/js/1.abaead1e.chunk.js",
-  "static/js/1.abaead1e.chunk.js.map": "/portfolio/static/js/1.abaead1e.chunk.js.map",
-  "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
-  "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
-  "static/css/main.ceebfbff.chunk.css.map": "/portfolio/static/css/main.ceebfbff.chunk.css.map",
-  "static/css/1.32567529.chunk.css.map": "/portfolio/static/css/1.32567529.chunk.css.map",
-  "index.html": "/portfolio/index.html",
-  "precache-manifest.4f68287f23a93eb023353df5023460ce.js": "/portfolio/precache-manifest.4f68287f23a93eb023353df5023460ce.js",
-  "service-worker.js": "/portfolio/service-worker.js"
+  "main.css": "/harsh-portfolio/static/css/main.f8f787e9.chunk.css",
+  "main.js": "/harsh-portfolio/static/js/main.879533ad.chunk.js",
+  "main.js.map": "/harsh-portfolio/static/js/main.879533ad.chunk.js.map",
+  "static/css/1.2425d664.chunk.css": "/harsh-portfolio/static/css/1.2425d664.chunk.css",
+  "static/js/1.f132c609.chunk.js": "/harsh-portfolio/static/js/1.f132c609.chunk.js",
+  "static/js/1.f132c609.chunk.js.map": "/harsh-portfolio/static/js/1.f132c609.chunk.js.map",
+  "runtime~main.js": "/harsh-portfolio/static/js/runtime~main.ec205018.js",
+  "runtime~main.js.map": "/harsh-portfolio/static/js/runtime~main.ec205018.js.map",
+  "static/css/main.f8f787e9.chunk.css.map": "/harsh-portfolio/static/css/main.f8f787e9.chunk.css.map",
+  "static/css/1.2425d664.chunk.css.map": "/harsh-portfolio/static/css/1.2425d664.chunk.css.map",
+  "index.html": "/harsh-portfolio/index.html",
+  "precache-manifest.507b5cff002d51e46378422cfea55695.js": "/harsh-portfolio/precache-manifest.507b5cff002d51e46378422cfea55695.js",
+  "service-worker.js": "/harsh-portfolio/service-worker.js"
 }
