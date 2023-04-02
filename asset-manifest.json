@@ -1,7 +1,7 @@
 {
   "main.css": "/harsh-portfolio/static/css/main.f8f787e9.chunk.css",
-  "main.js": "/harsh-portfolio/static/js/main.dfea348a.chunk.js",
-  "main.js.map": "/harsh-portfolio/static/js/main.dfea348a.chunk.js.map",
+  "main.js": "/harsh-portfolio/static/js/main.879533ad.chunk.js",
+  "main.js.map": "/harsh-portfolio/static/js/main.879533ad.chunk.js.map",
   "static/css/1.2425d664.chunk.css": "/harsh-portfolio/static/css/1.2425d664.chunk.css",
   "static/js/1.f132c609.chunk.js": "/harsh-portfolio/static/js/1.f132c609.chunk.js",
   "static/js/1.f132c609.chunk.js.map": "/harsh-portfolio/static/js/1.f132c609.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/main.f8f787e9.chunk.css.map": "/harsh-portfolio/static/css/main.f8f787e9.chunk.css.map",
   "static/css/1.2425d664.chunk.css.map": "/harsh-portfolio/static/css/1.2425d664.chunk.css.map",
   "index.html": "/harsh-portfolio/index.html",
-  "precache-manifest.b7ca4fccee33a5c9f185decdd45783e7.js": "/harsh-portfolio/precache-manifest.b7ca4fccee33a5c9f185decdd45783e7.js",
+  "precache-manifest.507b5cff002d51e46378422cfea55695.js": "/harsh-portfolio/precache-manifest.507b5cff002d51e46378422cfea55695.js",
   "service-worker.js": "/harsh-portfolio/service-worker.js"
 }
