@@ -9,7 +9,7 @@ export default class Porfolio extends Component {
     return (
       <Carousel variant="dark" className='w-50 mx-auto mb-xl-2 mb-3'>
       <Carousel.Item pause="hover">
-        <img className="d-block w-100" src="../images/todo.jpg" alt="First slide"/>
+        <img className="d-block w-100" src="https://raw.githubusercontent.com/harshu65/harsh-portfolio/main/images/todo.jpg" alt="First slide"/>
         <Carousel.Caption className="text-white">
           <h2 className='skinc'>Todo App</h2>
           <p className='mb-0'>It's a Todo List App built Using ReactJS.</p>
@@ -17,7 +17,7 @@ export default class Porfolio extends Component {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item pause="hover"> 
-        <img className="d-block w-100" src="../images/techtonic.jpg" alt="Second slide"/>
+        <img className="d-block w-100" src="https://raw.githubusercontent.com/harshu65/harsh-portfolio/main/images/techtonic.jpg" alt="Second slide"/>
         <Carousel.Caption  className="text-white">
           <h2 className='skinc'>Techtonic</h2>
           <p className='mb-0'>It is a fully responsive static-website built using w3css.</p>
@@ -25,7 +25,7 @@ export default class Porfolio extends Component {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item pause="hover">
-        <img className="d-block w-100" src="../images/cal.jpg" alt="Third slide"/>
+        <img className="d-block w-100" src="https://raw.githubusercontent.com/harshu65/harsh-portfolio/main/images/cal.jpg" alt="Third slide"/>
         <Carousel.Caption  className="text-white">
           <h2 className='skinc'>Calculator App</h2>
           <p className='mb-0'>Calculator App Using ReactJS</p>
