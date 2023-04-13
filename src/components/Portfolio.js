@@ -13,7 +13,7 @@ export default class Porfolio extends Component {
         <Carousel.Caption className="text-white">
           <h2 className='skinc'>Todo App</h2>
           <p className='mb-0'>It's a Todo List App built Using ReactJS.</p>
-          <a className="text-decoration-none" href='https://harshu65.github.io/react-todo/'><kbd className="h6 text-white">https://harshu65.github.io/react-todo/</kbd></a>
+          <a className="text-decoration-none" href='https://harshu65.github.io/react-todo/'><p><kbd className="h6 text-white">https://harshu65.github.io/react-todo/</kbd></p></a>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item pause="hover"> 
@@ -21,7 +21,7 @@ export default class Porfolio extends Component {
         <Carousel.Caption  className="text-white">
           <h2 className='skinc'>Techtonic</h2>
           <p className='mb-0'>It is a fully responsive static-website built using w3css.</p>
-          <a className="text-decoration-none" href='https://github.com/harshu65/techtonic'><kbd className="h6 text-white">https://github.com/harshu65/techtonic</kbd></a>
+          <a className="text-decoration-none" href='https://github.com/harshu65/techtonic'><p><kbd className="h6 text-white">https://github.com/harshu65/techtonic</kbd></p></a>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item pause="hover">
@@ -29,38 +29,10 @@ export default class Porfolio extends Component {
         <Carousel.Caption  className="text-white">
           <h2 className='skinc'>Calculator App</h2>
           <p className='mb-0'>Calculator App Using ReactJS</p>
-          <a className="text-decoration-none" href='https://harshu65.github.io/cal-reactjs/'><kbd className="h6 text-white">https://harshu65.github.io/cal-reactjs/</kbd></a>
+          <a className="text-decoration-none" href='https://harshu65.github.io/cal-reactjs/'><p><kbd className="h6 text-white">https://harshu65.github.io/cal-reactjs/</kbd></p></a>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
-      /*<section id="portfolio">
-      <div className="row g-0 g-0">
-        <div className="twelve columns collapsed">
-          <h1>Check Out Some of My Works.</h1>
-          <div id="portfolio-wrapper" className="ps-5 bgrid-quarters s-bgrid-thirds cf">
-          {
-            resumeData.portfolio && resumeData.portfolio.map((item)=>{
-              return(
-                <div className="columns portfolio-item">
-                  <div className="item-wrap">
-                    <a href="#modal-01">
-                      <img src={`${item.imgurl}`} className="item-img"/>
-                      <div className="overlay">
-                        <div className="portfolio-item-meta">
-                          <h5>{item.name}</h5>
-                          <p>{item.description}</p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-              )
-            })
-          }
-          </div>
-        </div>
-      </div>
-  </section>*/
         );
   }
 }
