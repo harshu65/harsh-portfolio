@@ -27,6 +27,6 @@ ul#nav li a:hover{color:#61dafb;}ul#nav{font-family: 'Poppins', sans-serif;}
  #root > div > div.w-50.mx-auto.mb-xl-2.mb-3.carousel.slide.carousel-dark > a> span{filter: saturate(8);}
  /* projects slider*/
  @media screen and (max-width:425px){
-   div.w-75 {width: 100%;}
+   div.w-75 {width: 98%!important;}
  }
  
