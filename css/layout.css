@@ -20,7 +20,7 @@
 /* ------------------------------------------------------------------ */
 /* a. General Styles
 /* ------------------------------------------------------------------ */
-@media screen and (max-width:425px){
+@media (max-width:425px){
    .mx-auto.mb-xl-2.mb-3.carousel.slide.carousel-dark{width: 98%!important;}
   }
 p{font-size: 1.13em;}
