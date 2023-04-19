@@ -4,13 +4,8 @@ export default class About extends Component {
   render() {
     let resumeData = this.props.resumeData;
     return (
-      <section className="ps-5" id="about">
+      <section className="ps-sm-5 p-4 pb-0" id="about">
          <div className="row g-0">
-             {/*prof pic
-            <div className="three columns">
-               <img className="profile-pic"  src="images/profilepic.png" alt="profile-picture" />
-            </div>
-            */}
             <div className="nine columns main-col">
                <h2>About Me</h2>
                <p className='mb-0'>{resumeData.aboutme1}</p>
