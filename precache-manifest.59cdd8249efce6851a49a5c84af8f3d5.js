@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e22588fc4295910281b9",
+    "revision": "fc42708741a716c08296",
     "url": "/harsh-portfolio/static/css/main.f8f787e9.chunk.css"
   },
   {
-    "revision": "e22588fc4295910281b9",
-    "url": "/harsh-portfolio/static/js/main.e22588fc.chunk.js"
+    "revision": "fc42708741a716c08296",
+    "url": "/harsh-portfolio/static/js/main.fc427087.chunk.js"
   },
   {
     "revision": "f132c609a507e98e478a",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/harsh-portfolio/static/js/runtime~main.ec205018.js"
   },
   {
-    "revision": "8d1344d1ab3dcc4b7ff24cd5680b6cbc",
+    "revision": "8b382478e4d187e47e144121a5fb9766",
     "url": "/harsh-portfolio/index.html"
   }
 ];
