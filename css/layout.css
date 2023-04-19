@@ -29,6 +29,6 @@ ul#nav li a:hover{color:#61dafb;}ul#nav{font-family: 'Poppins', sans-serif;}
  ::-webkit-scrollbar {width: 8px;}::-webkit-scrollbar-thumb {background: rgba(255, 255, 255, 0.822);border-radius: 10px; }::-webkit-scrollbar-track { box-shadow:inset 0 0 5px rgb(0 0 0);}*::selection{color: #00CCCC;}.carousel-inner{border-radius: var(--bs-border-radius)!important;}.skinc{color:blanchedalmond;}
  #root > div > div.w-75.mx-auto.mb-xl-2.mb-3.carousel.slide.carousel-dark > a> span{filter: saturate(8);}
  /* projects slider*/
- .smoothscroll{scroll-behavior: smooth!important;}
+ .smoothscroll,body{scroll-behavior: smooth!important;}
 
  

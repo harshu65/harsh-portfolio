@@ -7,7 +7,7 @@ export default class Porfolio extends Component {
 
    //pause="hover" itll stop sliding the slide if someone hovers over it
     return (
-      <Carousel variant="dark" style={{width: "98%"}} className=' mx-auto mb-xl-2 mb-3'>
+      <Carousel id="portfolio"variant="dark" style={{width: "98%"}} className=' mx-auto mb-xl-2 mb-3'>
       <Carousel.Item pause="hover">
         <img className="d-block w-100" src="https://raw.githubusercontent.com/harshu65/harsh-portfolio/main/images/todo.jpg" alt="First slide"/>
         <Carousel.Caption className="text-white">
