@@ -15,11 +15,11 @@ export default class Header extends Component {
                 </button>
             <div className="collapse navbar-collapse  justify-content-center" id="navbarSupportedContent">
               <ul id="nav" className="navbar-nav  justify-content-center">
-                <li className="nav-item"><AnchorLink href='#home'><a className="smoothscroll nav-link" >Home</a></AnchorLink></li>
-                <li className="nav-item"><AnchorLink href='#about'><a className="smoothscroll nav-link" >About</a></AnchorLink></li>
-                <li className="nav-item"><AnchorLink href='#resume'><a className="smoothscroll nav-link" >Resume</a></AnchorLink></li>
-                <li className="nav-item"><AnchorLink href='#portfolio'><a className="smoothscroll nav-link" >Works</a></AnchorLink></li>
-                <li className="nav-item"><AnchorLink href='#contact'><a className="smoothscroll nav-link" >Contact</a></AnchorLink></li>
+                <li className="nav-item"><AnchorLink href='#home'>Home</AnchorLink></li>
+                <li className="nav-item"><AnchorLink href='#about'>About</AnchorLink></li>
+                <li className="nav-item"><AnchorLink href='#resume'>Resume</AnchorLink></li>
+                <li className="nav-item"><AnchorLink href='#portfolio'>Works</AnchorLink></li>
+                <li className="nav-item"><AnchorLink href='#contact'>Contact</AnchorLink></li>
               </ul>
             </div>
           </div>
