@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import AnchorLink from "react-anchor-link-smooth-scroll";
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -15,11 +15,11 @@ export default class Header extends Component {
                 </button>
             <div className="collapse navbar-collapse  justify-content-center" id="navbarSupportedContent">
               <ul id="nav" className="navbar-nav  justify-content-center">
-                <li className="nav-item"><a className="smoothscroll nav-link" href="#home">Home</a></li>
-                <li className="nav-item"><a className="smoothscroll nav-link" href="#about">About</a></li>
-                <li className="nav-item"><a className="smoothscroll nav-link" href="#resume">Resume</a></li>
-                <li className="nav-item"><a className="smoothscroll nav-link" href="#portfolio">Works</a></li>
-                <li className="nav-item"><a className="smoothscroll nav-link" href="#contact">Contact</a></li>
+                <li className="nav-item"><AnchorLink href='#home'><a className="smoothscroll nav-link" >Home</a></AnchorLink></li>
+                <li className="nav-item"><AnchorLink href='#about'><a className="smoothscroll nav-link" >About</a></AnchorLink></li>
+                <li className="nav-item"><AnchorLink href='#resume'><a className="smoothscroll nav-link" >Resume</a></AnchorLink></li>
+                <li className="nav-item"><AnchorLink href='#portfolio'><a className="smoothscroll nav-link" >Works</a></AnchorLink></li>
+                <li className="nav-item"><AnchorLink href='#contact'><a className="smoothscroll nav-link" >Contact</a></AnchorLink></li>
               </ul>
             </div>
           </div>

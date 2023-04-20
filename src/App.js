@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import AnchorLink from "react-anchor-link-smooth-scroll";
 import Header from './components/Header';
 import About from './components/About';
 import Resume from './components/Resume';
