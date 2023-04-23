@@ -43,7 +43,10 @@ let resumeData = {
         "specialization":"Web Developer Executive",
         "MonthOfLeaving":"July",
         "YearOfLeaving":"2022",
-        "Achievements":"- Designed dynamic and responsive websites.-Optimized media and source code to resolve website performance issues.- Implemented cross-browser compatibilities.- Improved user experience and user engagement (time-on-page)."
+        "Achievements":"- Designed dynamic and responsive websites.",
+        "Achievementsa":"- Optimized media and source code to resolve website performance issues.",
+        "Achievementsb":"- Implemented cross-browser compatibilities.",
+        "Achievementsc":"- Improved user experience and user engagement (time-on-page)."
       },
       /*{
         "CompanyName":"Some Company",
@@ -53,7 +56,7 @@ let resumeData = {
         "Achievements":"Some Achievements"
       }*/
     ],
-    "skillsDescription":"I have experience in Front-end web development (HTML, CSS, W3CSS, Javascript, Content Management Systems) and I'm seeking a challenge to apply my knowledge and skills in a consumer-focused software organization.",
+    "skillsDescription":"I have experience in Front-end web development (HTML, CSS, W3CSS, Javascript, ReactJS, Content Management Systems) and I'm seeking a challenge to apply my knowledge and skills in a consumer-focused software organization.",
     "skills":[
       {
         "skillname":"HTML5"
