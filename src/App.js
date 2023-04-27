@@ -7,6 +7,7 @@ import Portfolio from './components/Portfolio';
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
+import { Suspense,lazy } from 'react';
 class App extends Component {
   render() {
     return (
@@ -14,7 +15,9 @@ class App extends Component {
         <Header resumeData={resumeData}/>
         <About resumeData={resumeData}/>
         <Resume resumeData={resumeData}/>
-        <Portfolio resumeData={resumeData}/>
+        <Suspense fallback={<div>Loading....</div>}>
+          <Portfolio resumeData={resumeData}/>
+        </Suspense>
         <ContactUs resumeData={resumeData}/>
         <Footer resumeData={resumeData}/>
       </div>
